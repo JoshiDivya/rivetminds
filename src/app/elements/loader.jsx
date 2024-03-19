@@ -7,7 +7,7 @@ function Loader() {
                 <div className="loading-box" />
                 <div className="loading-pic">
                     <div className="loading">
-                        <h2><img src={publicUrlFor("images/footer-logo.png")} alt="#" /></h2>
+                        <h2><img src={publicUrlFor("images/logo-light.svg")} alt="#" /></h2>
                         <span />
                         <span />
                         <span />

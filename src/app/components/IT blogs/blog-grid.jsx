@@ -1,5 +1,5 @@
 import Banner from "../../sections/common/banner";
-import SectionClients2 from "../../sections/home/index2/section-clients2";
+// import SectionClients2 from "../../sections/home/index2/section-clients2";
 import ItodoImage from "../../elements/itodo-img";
 import { NavLink } from "react-router-dom";
 import { bannerData } from "../../../globals/banner";
@@ -228,7 +228,7 @@ function BlogGridPage() {
             </div>
             {/* SECTION CONTENT END  */}
 
-            <SectionClients2 hideTitle={true}/>
+            {/* <SectionClients2 hideTitle={true}/> */}
         </>
     )
 }

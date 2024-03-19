@@ -1,6 +1,6 @@
 import { bannerData } from "../../../globals/banner";
 import Banner from "../../sections/common/banner";
-import SectionClients2 from "../../sections/home/index2/section-clients2";
+// import SectionClients2 from "../../sections/home/index2/section-clients2";
 
 function TestimonialsPage() {
     return (
@@ -188,7 +188,7 @@ function TestimonialsPage() {
                 {/* TESTIMONIAL END */}
             </div>
 
-            <SectionClients2 />
+            {/* <SectionClients2 /> */}
         </>
     )
 }

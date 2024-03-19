@@ -1,6 +1,6 @@
-import SectionVideo2 from "../../../sections/home/index2/section-video2"
+// import SectionVideo2 from "../../../sections/home/index2/section-video2"
 import SectionWhyChooseUs4 from "../../../sections/company/about/section-why-choose-us4"
-import SectionClients2 from "../../../sections/home/index2/section-clients2"
+// import SectionClients2 from "../../../sections/home/index2/section-clients2"
 import SectionCounter1 from "../../../sections/home/index/section-counter1";
 import ItodoImage from "../../../elements/itodo-img";
 import { useEffect } from "react";
@@ -93,9 +93,9 @@ function ServicesDetailPage() {
             </div>
             {/* service detail SECTION END */}
             
-            <SectionVideo2 />
+            {/* <SectionVideo2 /> */}
             <SectionWhyChooseUs4 />
-            <SectionClients2 />
+            {/* <SectionClients2 /> */}
         </>
     )
 }

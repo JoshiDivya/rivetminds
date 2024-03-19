@@ -19,9 +19,6 @@ import BlogDetailPage from "../app/components/IT blogs/blog-detail";
 import BlogDetailSidebarPage from "../app/components/IT blogs/blog-detail-sidebar";
 import ContactUsPage from "../app/components/contactus/contact-us";
 import Home1Page from "../app/components/home/index";
-import Home2Page from "../app/components/home/index2";
-import Home3Page from "../app/components/home/index3";
-
 function AppRoutes() {
     return (
         <>

@@ -1,5 +1,5 @@
 import { SectionPricing1Inner } from "../../home/index/section-pricing1";
-import { SectionWhyChooseUs2Inner } from "../../home/index2/section-why-choose-us2";
+// import { SectionWhyChooseUs2Inner } from "../../home/index2/section-why-choose-us2";
 
 function SectionWhyChooseUs4() {
     return (
@@ -8,7 +8,7 @@ function SectionWhyChooseUs4() {
                 <div className="container">
                     <div className="section-content">
                         <div className="sx-about-bx4-content-wrap p-b70">
-                            <SectionWhyChooseUs2Inner />
+                            {/* <SectionWhyChooseUs2Inner /> */}
                         </div>
                     </div>
                 </div>

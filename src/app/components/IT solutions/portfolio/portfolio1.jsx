@@ -1,5 +1,5 @@
 import Banner from "../../../sections/common/banner";
-import SectionClients2 from "../../../sections/home/index2/section-clients2";
+// import SectionClients2 from "../../../sections/home/index2/section-clients2";
 import { NavLink } from "react-router-dom";
 import ItodoImage from "../../../elements/itodo-img";
 import { bannerData } from "../../../../globals/banner";
@@ -164,7 +164,7 @@ function Portfolio1Page() {
             </div>
             {/* SECTION CONTENT END  */}
             
-            <SectionClients2 />
+            {/* <SectionClients2 /> */}
         </>
     )
 }

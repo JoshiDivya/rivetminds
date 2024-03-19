@@ -34,7 +34,7 @@ function Footer() {
                             <div className="col-xl-3 col-lg-6 col-md-6 col-sm-6">
                                 <div className="widget widget_about">
                                     <div className="logo-footer clearfix p-b15">
-                                        <NavLink to="/index" className="sx-text-primary"><ItodoImage src="images/footer-logo.png" alt="#" /></NavLink>
+                                        <NavLink to="/index" className="sx-text-primary"><ItodoImage src="images/logo.svg" alt="#" /></NavLink>
                                     </div>
                                     <p>Pellentesque in commodo elit. Nunc tincidun
                                         sapien eget condimentum. Vivamus aliquam
